@@ -1,0 +1,12 @@
+a = '''sahil
+is 
+a bad boy'''
+b = 345
+c = 45.32
+d = True
+e = None
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)

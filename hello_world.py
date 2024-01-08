@@ -1,2 +1,17 @@
+'''Author: harry
+***thanks****
+Licensed to: swarnim'''
+
+
 print("hello world")
-print ("This is to test Swarnim cutie knows how to use git")
+print ('''twinkle twinkle little star thats what''')
+
+import os
+print(os.listdir())
+
+
+
+
+
+
+
