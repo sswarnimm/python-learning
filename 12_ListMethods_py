@@ -1,0 +1,17 @@
+l1 = [1,8,7,2,21,15]
+print(l1)
+l1_sorted = l1.sort()
+# print(l1_sorted) --> this is wrong
+print(l1) #-->this is correct
+l1_reverse = l1.reverse() #--reverses the list
+print(l1)
+
+l1.append(45) #appends values to the end of list
+print(l1)
+l1.pop(2) #deletes values based on index number
+print(l1)
+
+l1.insert(4,555) #insert value to the index number 
+print(l1)
+l1.remove(21) #delete value in list
+print(l1)

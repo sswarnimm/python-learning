@@ -18,10 +18,11 @@ name = "Swarnim"
 c=name[1:]
 print(c)
 
+
 name = "Sahilisbad"
 print(name[0::2])
 
-#name[3]= "s" -->does not work
+#name[3]= "s" #does not work
 
 
 
