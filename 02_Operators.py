@@ -9,18 +9,18 @@ print("the value of 3*4 is", 3*4)
 #Assignment operators
 
 a = 34
-a +=2
-a -=2
-a /=2
-a *=2
+a += 2
+a -= 2
+a /= 2
+a *= 2
 print(a)
 
 #Comparision operators
 
-a = (14>7)
-a = (7>14)
-a= (14 ==7)
-a= (14 !=7)
+a = (14 > 7)
+a = (7 > 14)
+a = (14 == 7)
+a = (14 != 7)
 print (a)
 
 #logical operators

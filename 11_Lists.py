@@ -5,7 +5,7 @@ print(a)
 
 #change the value of list using below
 
-a[0] =98
+a[0] = 98
 print(a)
 
 
